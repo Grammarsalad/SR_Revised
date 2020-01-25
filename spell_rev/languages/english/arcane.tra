@@ -1768,7 +1768,7 @@ Level: 5
 School: Conjuration
 Range: Medium
 Duration: 1 turn + 1 round/level
-Casting Time: 8
+Casting Time: 1 round
 Area of Effect: Special
 Saving Throw: None
 
@@ -1829,7 +1829,7 @@ Level: 5
 School: Conjuration
 Range: Medium
 Duration: 1 turn + 1 round/level
-Casting Time: 8
+Casting Time: 1 round
 Area of Effect: Special
 Saving Throw: None
 
@@ -1852,7 +1852,7 @@ Level: 5
 School: Conjuration
 Range: Medium
 Duration: 1 turn + 1 round/level
-Casting Time: 8
+Casting Time: 1 round
 Area of Effect: Special
 Saving Throw: None
 
