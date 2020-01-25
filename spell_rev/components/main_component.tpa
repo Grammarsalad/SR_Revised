@@ -1407,7 +1407,7 @@ COPY ~spell_rev\spwi1##\dvscrl02.itm~    ~override~  // New scroll
   SAY NAME2 @415000    SAY IDENTIFIED_DESC @416000
 
 // SPWI109 was unused in vanilla but the bams were there
-COPY ~spell_rev\spwi1##\spwi109.spl~     ~override~  // Dimension Jump ("replaces" Dimension Door, disabled at level four)
+COPY ~spell_rev\spwi1##\spwi109.spl~     ~override~  // Dimension Jump
   SAY NAME1 @563    SAY UNIDENTIFIED_DESC @564
 COPY ~spell_rev\spwi1##\scrl1v.itm~      ~override~  // vanilla's Dimension Door scroll
   SAY NAME2 @563    SAY IDENTIFIED_DESC   @564
@@ -1799,6 +1799,11 @@ COPY ~spell_rev\spwi2##\hobshasu.itm~    ~override~
   SAY NAME1 @9057   SAY NAME2 @9057
 COPY ~spell_rev\spwi2##\dvhobsha.bcs~    ~override~
 
+COPY ~spell_rev\spwi2##\spwi299.spl~     ~override~  // Summon Cown
+  SAY NAME1 @401000    SAY UNIDENTIFIED_DESC @402000
+COPY ~spell_rev\spwi2##\scrlzz.itm~      ~override~
+  SAY NAME2 @401000    SAY IDENTIFIED_DESC   @402000
+
 
 /*-----------------------Level 3-----------------------*/
 
@@ -1996,8 +2001,10 @@ COPY ~spell_rev\spwi4##\spwi401.spl~     ~override~  // Confusion
 COPY ~spell_rev\spwi4##\scrl1u.itm~      ~override~
   SAY NAME2 @561    SAY IDENTIFIED_DESC   @562
 
-COPY ~spell_rev\spwi4##\spwi402.spl~     ~override~  // Dimension Jump ("replaces" Dimension Door, moved to 1st level)
+COPY ~spell_rev\spwi4##\spwi402.spl~     ~override~  // Dimension Door
   SAY NAME1 @563000    SAY UNIDENTIFIED_DESC @564000
+COPY ~spell_rev\spwi4##\dvscrldd.itm~     ~override~
+  SAY NAME2 @563000    SAY IDENTIFIED_DESC   @564000
 APPEND ~spell.ids~ ~2402 WIZARD_DIMENSION_DOOR_DEPRECATED~
 
 COPY ~spell_rev\spwi4##\spwi403.spl~     ~override~  // Mestil's Acid Sheath (replaces Fire Shield Blue, moved to 5th level)

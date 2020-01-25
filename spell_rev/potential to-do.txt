@@ -1,0 +1,8 @@
+make air elemental transformation
+add final form for polymorph self
+fix druid forms (and other innates)?
+unsummon innate ability for summonables
+
+runehammer/other broken icons
+make +strength items get exceptional strength: +1: 50; +2: 75; +3: 90, +4 95, +5 100?
+review MS9

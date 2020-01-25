@@ -1,0 +1,213 @@
+Level 1: 25 Spells
+Grease - scrl66
+Mage Armor - scrl67
+Burning Hands - scrl68
+Charm Person - scrl69
+Color Spray - scrl70
+*Obscuring Mist/Blindness - scrl71
+*Friends - dvscrl01 (new)
+*Protection from Petrification - dvscrl02 (new)
+*Dimension Jump - scrl1v (moved from 4th level)
+Identify - scrl75
+True Strike - scrl76
+Magic Missile - scrl77
+Protection from Evil - scrl78
+Shield - scrl79
+Shocking Grasp - scrl80
+Sleep - scrl81
+Chill Touch - scrl82
+Chromatic Orb - scrl83
+Larloch's Minor Drain - scrl84
+Reflected Image - scrl5u
+Find Familiar - scrl6d
+Spook - scrla6
+*Detect Alignment - dvscrl03 (new)
+*Monster Summoning I - scrl72 (vanilla's Friends)
+*Expeditious Retreat - scrl73 (vanilla's Protection from Petrification)
+
+Level 2: 23 Spells
+Blur - scrl85
+Detect Invisibility - scrl87
+Horror - scrl89
+Invisibility - scrl90
+Battering Ram - scrl91
+Know Opponent - scrl92
+Luck - scrl93
+Resist Fear - scrl94
+Melf's Acid Arrow - scrl95
+Mirror Image - scrl96
+Stinking cloud - scrl97
+Strength - scrl98
+Web - scrl99
+Agannazar's Scorcher - scrl1b
+Ghoul Touch - scrl1c
+Vocalize - scrl3g
+Power Word: Sleep - scrl6e
+Ray of Enfeeblement - scrl6f
+Sound Burst - scrla2
+Glitterdust - scrla3
+*Resist Elements - scrl86 (vanilla's Detect Evil)
+*Monster Summoning II - scrl1l (vanilla's Monster Summoning III)
+*Summon Cow - scrlzz
+
+Level 3: 24 Spells
+Clairvoyance - scrl1d
+Remove Magic - scrla7
+Flame Arrow - scrl1f
+Fireball - scrl1g
+Haste - scrl1h
+Hold Person - scrl1i
+Invisibility Sphere - scrl1j
+Lightning Bolt - scrl1k
+*Monster Summoning III - scrl2a (vanilla's Monster Summoning IV)
+Non-Detection - scrl1m
+Protection from Missiles - scrl1n
+Slow - scrl1o
+Skull Trap - scrl1p
+Vampiric Touch - scrl1q
+*Wraithform - scrl1r
+Dire Charm - scrl1s
+Ghost Armor - scrl1t
+Minor Spell Deflection - scrl6g
+Spell Thrust - scrl6j
+Detect Illusion - scrl6k
+Hold Undead - scrl6l
+Melf's Minute Meteors - scrla5
+Dispel Magic - scrl1e
+*Icelance - scrl6i (vanilla's Protection from Cold, 3rd level)
+
+Level 4: 23 Spells
+Confusion - scrl1u
+*Dimension Door - dvscrldd (new)
+Ice Storm - scrl1x
+Improved Invisibility - scrl1y
+Minor Globe of Invulnerability - scrl1z
+Stoneskin - scrl2b
+Contagion - scrla8
+Break Enchantment - scrl5g
+Emotion: Despair - scrl5h
+Greater Malison - scrl5i
+Otiluke's Resilient Sphere - scrl5j
+Spirit Armor - scrl5k
+Polymorph Other - scrl5l
+Polymorph Self - scrl5m
+Enchanted Weapon - scrl6m
+Fire Shield - scrl6n
+Secret Word - scrl6o
+Simbul's Spell Matrix - scrl6p
+Teleport Field - scrl6q
+Monster Summoning IV - scrl6r
+Farsight - scrlaq
+Wizard Eye - scrla1
+*Protection from Elemental Energy - scrl6h (vanilla's Protection from Fire, 3rd level)
+*Vitriolic Sphere - scrl6y (vanilla's Protection from Acid, 5th level)
+
+Level 5: 23 Spells
+Summon Shadow - scrl2d
+Cloudkill - scrl2e
+Cone of Cold - scrl2f
+Monster Summoning V - scrl2g
+Shadow Door - scrl2h
+Domination - scrl5n
+Hold Monster - scrl5o
+Waves of Fatigue - scrl5p
+Feeblemind - scrl5q
+Dispelling Screen - scrl6s
+Protection from Normal Weapons - scrl6t
+Breach - scrl6u
+Lower Resistance - scrl6v
+Oracle - scrl6w
+Conjure Lesser Fire Elemental - scrl6x
+Phantom Blade - scrl6z
+Spell Shield - scrl8x
+Conjure Lesser Air Elemental - scrl7b
+Conjure Lesser Earth Elemental - scrl7c
+Spell Deflection - scrl7d
+Fireburst - scrlar
+*Mestil's Acid Sheath - scrl1w (vanilla's Fire Shield Blue, 4th level)
+*Ball Lightning - scrl5t (vanilla's Protection from Lightning, 5th level)
+
+Level 6: 22 Spells
+Invisible Stalker - scrl7e
+Globe of Invulnerability - scrl7f
+Tenser's Transformation - scrl7g
+Flesh to Stone - scrl7h
+Banishment - scrl7i
+Protection from Magic Energy - scrl7j
+Mislead - scrl7k
+Pierce Magic - scrl7l
+True Seeing - scrl7m
+Protection from Magical Weapons - scrl7o
+Power Word: Silence - scrl7p
+Improved Haste - scrl7q
+Acid Fog - scrl7r
+Chain Lightning - scrl7s
+Disintegrate - scrl7t
+Contingency - scrl7u
+Monster Summoning VI - scrl7w
+Conjure Fire Elemental - scrl7x
+Conjure Air Elemental - scrl7y
+Conjure Earth Elemental - scrl7z
+Animate Warrior - scrl8a
+*Summon Nishruu - scrl8c (vanilla's Stone to Flesh, 5th level)
+
+Level 7: 21 Spells
+*Greater Spell Deflection - scrl7v (vanilla's Spell Turning, 6th level)
+Protection from the Elements - scrl8e
+Project Image - scrl8f
+Ruby Ray of Reversal - scrl8g
+Khelben's Warding whip - scrl6h
+Cacofiend - scrl8i
+Prismatic Mantle - scrl8j
+Simbul's Spell Sequencer - scrl8l
+Chaos - scrl8m
+Delayed Blast Fireball - scrl8n
+Finger of Death - scrl8o
+Prismatic Spray - scrl8p
+Power Word: Stun - scrl8q
+Mordenkainen's Sword - scrl8r
+Summon Efreeti - scrl8s
+Summon Djinni - scrl8t
+Summon Hakeashar - scrl8u
+Control Undead - scrl8v
+Mass Invisibility - scrl8w
+Limited Wish - scrla4
+*Monster Summoning VII - scrl8b (vanilla's Summon Nishruu, 6th level)
+
+Level 8: 17 Spells
+*Ghostform - dvscrl04 (new)
+*Mind Blank - scrl8d (vanilla's Spell Turning, 7th level)
+Protection from Energy - scrl8y
+Simulacrum - scrl8z
+Pierce Shield - scrl9a
+Summon Fiend - scrl9b
+Moment of Prescience - scrl9c
+Simbul's Spell Trigger - scrl9d
+Incendiary Cloud - scrl9e
+Symbol of Pain - scrl9f
+Abi-Dalzim's Horrid Wilting - scrl9g
+Maze - scrl9h
+Power Word: Blind - scrl9j
+Symbol of Stunning - scrlap
+Symbol of Death - scrlao
+Bigby's Icy Grasp - scrlb1
+*Monster Summoning VIII - dvscrl05 (new)
+
+Level 9: 17 Spells
+Spell Trap - scrl9l
+Spellstrike - scrl9m
+Gate - scrl9n
+*Monster Summoning IX - dvscrl06 (new)
+Absolute Immunity - scrl9p
+Chain Contingency - scrl9q
+Time Stop - scrl9r
+Imprisonment - scrl9s
+Meteor Swarm - scrl9t
+Power Word: Kill - scrl9u
+Wail of the Banshee - scrl9v
+Energy Drain - scrl9w
+Black Blade of Disaster - scrl9x
+Shapechange - scrl9y
+Freedom - scrl9z
+Bigby's Crushing Hand - scrlb2
+Wish - scrlb4
